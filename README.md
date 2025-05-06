@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I’m @AhmadDiksa
+
+#👋 Hello World!, I’m @AhmadDiksa
 
 ![Ahmad Diksa](./img/profil.jpg)
 
